@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MaxCompany/static/css/main.00d589a7.css",
-    "main.js": "/MaxCompany/static/js/main.df21fe57.js",
+    "main.js": "/MaxCompany/static/js/main.2c881a26.js",
     "static/js/787.274199c2.chunk.js": "/MaxCompany/static/js/787.274199c2.chunk.js",
     "static/media/picture2.png": "/MaxCompany/static/media/picture2.6da68c7b2d68db6d97f1.png",
     "static/media/AC.png": "/MaxCompany/static/media/AC.d5e91d7ec29ec7253264.png",
@@ -9,11 +9,11 @@
     "static/media/pic3.png": "/MaxCompany/static/media/pic3.878e312e4e574d522381.png",
     "index.html": "/MaxCompany/index.html",
     "main.00d589a7.css.map": "/MaxCompany/static/css/main.00d589a7.css.map",
-    "main.df21fe57.js.map": "/MaxCompany/static/js/main.df21fe57.js.map",
+    "main.2c881a26.js.map": "/MaxCompany/static/js/main.2c881a26.js.map",
     "787.274199c2.chunk.js.map": "/MaxCompany/static/js/787.274199c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00d589a7.css",
-    "static/js/main.df21fe57.js"
+    "static/js/main.2c881a26.js"
   ]
 }
